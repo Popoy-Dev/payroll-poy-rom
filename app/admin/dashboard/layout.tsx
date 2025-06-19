@@ -16,7 +16,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       {/* Sidebar */}
       <aside className="w-64 bg-white dark:bg-neutral-900 border-r border-gray-200 dark:border-neutral-800 flex flex-col p-6 gap-6 shadow-lg">
         <div className="mb-8">
-          <span className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-blue-700 to-blue-400 bg-clip-text text-transparent select-none">PayrollPro Admin</span>
+          <span className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-blue-700 to-blue-400 bg-clip-text text-transparent select-none">ZenithPay Admin</span>
         </div>
         <nav className="flex flex-col gap-3">
           <Link href="/admin/dashboard" className="px-4 py-2 rounded-lg hover:bg-blue-100 dark:hover:bg-neutral-800 text-blue-900 dark:text-blue-200 font-medium transition">Dashboard</Link>

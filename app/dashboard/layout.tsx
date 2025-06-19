@@ -22,7 +22,7 @@ export default function DashboardLayout({
       <aside className='w-64 bg-white dark:bg-neutral-900 border-r border-gray-200 dark:border-neutral-800 flex flex-col p-6 gap-6 shadow-lg'>
         <div className='mb-8'>
           <span className='text-2xl font-extrabold tracking-tight bg-gradient-to-r from-blue-700 to-blue-400 bg-clip-text text-transparent select-none'>
-            PayrollPro
+            ZenithPay
           </span>
         </div>
         <nav className='flex flex-col gap-3'>

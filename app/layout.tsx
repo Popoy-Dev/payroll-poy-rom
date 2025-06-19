@@ -43,7 +43,7 @@ export default function RootLayout({
                   </linearGradient>
                 </defs>
               </svg>
-              <span className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-blue-700 to-blue-400 bg-clip-text text-transparent select-none">PayrollPro</span>
+              <span className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-blue-700 to-blue-400 bg-clip-text text-transparent select-none">ZenithPay</span>
             </div>
           </div>
           <Suspense fallback={<div>Loading...</div>}>
